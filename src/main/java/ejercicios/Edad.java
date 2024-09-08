@@ -1,6 +1,4 @@
 package ejercicios;
-
-import static ejercicios.SetDeTenis.evaluar;
 import java.time.LocalDate;
 import java.util.Scanner;
 
